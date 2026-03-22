@@ -1,1 +1,1 @@
-FLIGHT_MODE = stabilize
+FC = pixhawk_2.4.8
