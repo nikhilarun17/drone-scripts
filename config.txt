@@ -1,1 +1,1 @@
-FLIGHT_MODE = stabilize
+FC = cube_orange
